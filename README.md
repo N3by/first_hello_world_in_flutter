@@ -1,16 +1,11 @@
-# hola_mundo
+# Proyecto "Mi primer Hola Mundo en Flutter"
 
-A new Flutter project.
+En este proyecto, he escrito mi primer "Hola Mundo" en Flutter, un framework de desarrollo de aplicaciones móviles. Para ello, he seguido los siguientes pasos:
 
-## Getting Started
+1. He instalado Flutter en mi ordenador.
+2. He creado un nuevo proyecto de Flutter.
+3. He editado el archivo "main.dart" para mostrar el mensaje "Hola Mundo" en la pantalla. 
+4. He ejecutado el proyecto en un simulador o dispositivo móvil.
 
-This project is a starting point for a Flutter application.
+Con este proyecto, he aprendido los conceptos básicos de Flutter y cómo crear una aplicación móvil simple. A partir de aquí, espero seguir explorando las posibilidades que ofrece Flutter para desarrollar aplicaciones móviles más complejas y útiles.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
